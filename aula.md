@@ -19,3 +19,16 @@ Maneira de dar instrução ao computador.Como um lego, você irá utilizar peça
 Coletar os dados;
 Processar os dados (manipular, alterar, gerenciar ...)
 Apresentar os dados
+
+## Escopo e variáveis:
+
+## Tipos de dados:
+
+String (textos): " '' ´´
+Number: 2 1.4
+function
+
+## Operadores
+
+Operadores de atribuição de valor
+
