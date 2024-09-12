@@ -57,4 +57,4 @@ Apresentar os dados
 
 # Estrutura de repetição 
 
-- [x]
+- [x] while
